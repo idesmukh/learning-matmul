@@ -5,4 +5,3 @@ dependencies:
   - pandas
   - python=3.12
   - seaborn
-prefix: /home/muhammad-ibad-desmukh/miniforge3/envs/learning-matmul
